@@ -10,18 +10,6 @@
 
 * Learn the application of design patterns.
 
-## Due Dates
-
-Milestone 1: 9AM Tuesday Week 7 (Demonstration: Week 7 Lab)
-
-Milestone 2: 9AM Tuesday Week 8 (Demonstration: Week 8 Lab)
-
-Final milestone: 9AM Monday Week 10 (Demonstration: Week 10 Lab)
-
-**NOTE:** There is **NO** provision for late submissions with a late penalty. Not submitting by the deadline is considered non-submission.
-
-## Value: 35 marks
-
 ---
 
 ## Overview
@@ -385,37 +373,3 @@ Marks will be deducted for poor git and GitLab usage. For example, meaningless c
 [boulders]:      examples/boulders.png
 [advanced]:      examples/advanced.png
 
-## Logs of work completed per partner
-
-### Week-05
-Introduction towards each other. No actual work was done for Milestone 1.
-
-### Week-06
-Discussion of specifications for milestone 1. A google doc was created for ideas in terms of user stories whilst project GitLab was being created.
-
-### Week-07
-
-Michael:
-- Added Epic: Movement, Obstacles, UI Design and Extensions
-- Added US: ~~1.1, 2.1, 2.2, 2.5, 3.2, 3.3~~
-  * (Karl) Renamed to: Player movement, Enemies, Walls, Keys, Loot from Monster, Restart game
-
-Karl:
-- Added Epic: Custom layout builder, Collectibles
-- Renamed Movement epic to Player controls
-- Added User stories: Custom dungeon templates, Goal completion notification, Treasure, Portals, Boulders
-- Assigned priorities to user stories
-
-### Week-08
-
-Michael:
-
-
-Karl:
-
-### Week-09
-
-Michael:
-
-
-Karl:
