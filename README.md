@@ -10,6 +10,8 @@
 
 * Learn the application of design patterns.
 
+Mark Achieved: 30/35 (85%)
+
 ---
 
 ## Overview
